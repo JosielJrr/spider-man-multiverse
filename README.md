@@ -50,5 +50,5 @@ Este é um projeto de aplicação web que explora o multiverso dos Homens-Aranha
 3. Abra o arquivo `index.html` em seu navegador para visualizar a aplicação.
 
 ## Notas Adicionais 
-- Esse projeto foi desenvolvido com a Digital Innovation One.
+- Este projeto foi desenvolvido com a [Digital Innovation One](https://www.dio.me/).
 - Esta aplicação não é responsiva e foi projetada apenas para telas grandes. Pode não funcionar adequadamente em dispositivos móveis ou em computadores com telas pequenas.
