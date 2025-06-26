@@ -1,8 +1,8 @@
 # Spider-Man | Multiversos 🕷️ 🕸️
 
-Este é um projeto de aplicação web que explora o multiverso dos Homens-Aranhas, apresentando diferentes versões dos personagens icônicos interpretados por Tobey Maguire, Tom Holland e Andrew Garfield.
+Aplicação web que explora o multiverso dos Homens-Aranhas, apresentando diferentes versões dos personagens icônicos interpretados por Tobey Maguire, Tom Holland e Andrew Garfield.
 
-## Estrutura do Projeto
+## 📁 Estrutura do Projeto
 - `index.html`: Página inicial com um carrossel de cards dos Homens-Aranhas.
 - `pages/`: Pasta contendo arquivos HTML para cada versão do Homem-Aranha.
   - `andrew-garfield/`: Versão do Homem-Aranha interpretado por Andrew Garfield.
@@ -28,27 +28,24 @@ Este é um projeto de aplicação web que explora o multiverso dos Homens-Aranha
   - `images/`: Imagens.
   - `videos/`: Vídeos.
 
-## Funcionalidades
+## ✨ Funcionalidades
 - **Página Inicial**: Um carrossel de cards com informações e imagens dos Homens-Aranhas.
 - **Páginas de Personagens**: Cada página de personagem contém um vídeo do trailer do filme e detalhes sobre o personagem.
 - **Interatividade**: O carrossel permite a navegação entre os cards e destaca o card atual quando o mouse passa sobre ele.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 - **HTML**
 - **CSS**
 - **JavaScript**
 
-## Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 1. Clone o repositório:
-   ```
+   ```bash
    git clone https://github.com/JosielJrr/spider-man-multiverse.git
-   ``` 
-2. Navegue até o diretório do projeto:
-   ```
    cd spider-man-multiverse
    ``` 
-3. Abra o arquivo `index.html` em seu navegador para visualizar a aplicação.
+2. Abra o arquivo `index.html` em seu navegador para visualizar a aplicação.
 
-## Notas Adicionais 
+## 📌 Notas Adicionais 
 - Este projeto foi desenvolvido com a [Digital Innovation One](https://www.dio.me/).
-- Esta aplicação não é responsiva e foi projetada apenas para telas grandes. Pode não funcionar adequadamente em dispositivos móveis ou em computadores com telas pequenas.
+- Aplicação não responsiva, projetada apenas para telas grandes.
